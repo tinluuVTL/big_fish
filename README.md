@@ -17,3 +17,4 @@ The game can be played by 2-3 people 😍😍
 
 ## Facebook:[Lưu Văn Tín](https://www.facebook.com/profile.php?id=100082063023921)
 ## GitHub: [Fish mad](https://github.com/tinluuVTL/-big_fish_eat_small-_fish)
+## Demo:[Fish eat fish](https://tinluuvtl.github.io/-big_fish_eat_small-_fish/)
