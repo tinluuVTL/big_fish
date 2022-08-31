@@ -13,8 +13,12 @@ The game can be played by 2-3 people 😍😍
 ![image](https://user-images.githubusercontent.com/107022820/172359707-44686244-62ba-40a5-a4b6-a62cae6530b1.png)
 
 ## ---Hiện điểm khi kết Thúc(show points at the end game)---
-![image](https://user-images.githubusercontent.com/107022820/172359377-a56b0503-8b81-4a09-a5bd-8d4e08a57746.png)
+![image](https://user-images.githubusercontent.com/107022820/172359377-a56b0503-8b81-4a09-a5bd-8d4e08a577
+### Contact the development team
+## Facebook:
+##          [Lưu Văn Tín](https://www.facebook.com/profile.php?id=100082063023921) (Member)
+##          [Nhật Thiện](https://www.facebook.com/nhat.thien.171) (Member)
+##          [Minh Khang](https://www.facebook.com/profile.php?id=100058365200075) (Leader)
 
-## Facebook:[Lưu Văn Tín](https://www.facebook.com/profile.php?id=100082063023921)
-## GitHub: [Fish mad](https://github.com/tinluuVTL/-big_fish_eat_small-_fish)
-## Demo:[Fish eat fish](https://tinluuvtl.github.io/-big_fish_eat_small-_fish/)
+## GitHub: [Fish mad](https://github.com/tinluuVTL/big_fish)
+## Demo:[Fish eat fish](https://tinluuvtl.github.io/big_fish)
